@@ -9,8 +9,8 @@ Contents of repository:
 - multiseed.py
 - ExampleData #example data to run multiseed.py and example output 
 	- cluster_assignments.txt #contains cluster solutions
-	-- coord-example.csv #an example oordination plot for the user to test multiseed.py
-	-- first_seed_per_unique_clustering.txt #shows the first seed that produced each cluster solution
-	-- cluster_plots #folder containing image files for each cluster solution
-		--- cluster_1.png
-		--- cluster_2.png 
+	-  coord-example.csv #an example oordination plot for the user to test multiseed.py
+	- first_seed_per_unique_clustering.txt #shows the first seed that produced each cluster solution
+	- cluster_plots #folder containing image files for each cluster solution
+		- cluster_1.png
+		- cluster_2.png 
